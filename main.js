@@ -9,3 +9,4 @@ var namespace = {
 //log.log("hello");
 logs.getNode();
 logs.getNamespace();
+logs.getPodsfrNamespaces('argocd');
